@@ -80,8 +80,10 @@ Flutter · Dart · Firebase · REST API · Node.js · PostgreSQL · Redis · Rab
 
 ###
 
+![](https://github-readme-stats.vercel.app/api?username=fathorrosi-dev&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=fathorrosi-dev&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fathorrosi-dev&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=fathorrosi-dev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fathorrosi-dev&radius=16&theme=dracula&area=true&order=5&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
